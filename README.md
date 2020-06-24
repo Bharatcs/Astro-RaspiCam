@@ -59,5 +59,3 @@ Finally compile, install and update the ldconfig:
 
 
 ### Example
-
-COMING SOON!
