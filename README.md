@@ -1,4 +1,5 @@
-#Astro RaspiCam: C++ API for using Raspberry camera for Astrophotography (with OpenCV 2)
+
+# Astro RaspiCam: C++ API for using Raspberry Camera for Astrophotography (with OpenCV 2)
 
 A modified C++ RaspiCam API to support long exposure for Astrophotography.
 
